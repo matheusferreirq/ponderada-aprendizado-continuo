@@ -23,7 +23,7 @@ A proposta separa a atualização em dois ciclos. O ciclo rápido atualiza a bas
 
 Figura 1 \- Arquitetura de aprendizado contínuo
 
-----diagrama
+<img width="2352" height="2949" alt="diagrama_aprendizado_continuo" src="https://github.com/matheusferreirq/ponderada-aprendizado-continuo/blob/main/diagrama_aprendizado_continuo.png" />
 
 Fonte: Desenvolvida pelo autor (2026).
 
